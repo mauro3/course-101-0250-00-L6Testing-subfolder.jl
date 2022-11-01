@@ -1,4 +1,4 @@
-[![CI action](https://github.com/mauro3/course-101-0250-00-L6Testing.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/mauro3/course-101-0250-00-L6Testing.jl/actions/workflows/ci.yml)
+[![CI action](https://github.com/mauro3/course-101-0250-00-L6Testing-subfolder.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/mauro3/course-101-0250-00-L6Testing-subfolder.jl/actions/workflows/ci.yml)
 
 # Showcase unit and integration testing
 
